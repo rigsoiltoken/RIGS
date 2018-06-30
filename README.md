@@ -5,7 +5,9 @@ Explorer: http://etherscan.io
 
 Explorar2: https://ethplorer.io
 
-ANN: https://bitcointalk.org/index.php?topic=4555216
+Bitcointalk: https://bitcointalk.org/index.php?topic=4555216
+
+BitcoinForum: https://forum.bitcoin.com/topic90965.html
 
 Mediam: https://medium.com/@rigsoiltoken
 
